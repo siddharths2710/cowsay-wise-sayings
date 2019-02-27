@@ -9,29 +9,20 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 
 
 > **Learn Till you die**
-> Learn till you are a beginner
-> Lead once you are an expert
-> and lead till you are
-> willing to learn
 
 
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
 ```
- ______________________________________ 
-/ Another good night not to sleep in a \
-\ eucalyptus tree.                     /
- -------------------------------------- 
-    \
-     \
-      \     
-                    ##        .            
-              ## ## ##       ==            
-           ## ## ## ##      ===            
-       /""""""""""""""""___/ ===        
-  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
-       \______ o          __/            
-        \    \        __/             
-          \____\______/   
+ ________________________________________
+/ It is not well to be thought of as one \
+| who meekly submits to insolence and    |
+\ intimidation.                          /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
