@@ -35,3 +35,20 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
        \______ o          __/            
         \    \        __/             
           \____\______/   
+ _________________________________________ 
+/ Because we don't think about future     \
+| generations, they will never forget us. |
+|                                         |
+\ -- Henrik Tikkanen                      /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
