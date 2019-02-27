@@ -18,12 +18,11 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
- ________________________________________ 
-/ To get something clean, one has to get \
-| something dirty. To get something      |
-| dirty, one does not have to get        |
-\ anything clean.                        /
- ---------------------------------------- 
+```
+ ______________________________________ 
+/ Another good night not to sleep in a \
+\ eucalyptus tree.                     /
+ -------------------------------------- 
     \
      \
       \     
@@ -35,20 +34,4 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
        \______ o          __/            
         \    \        __/             
           \____\______/   
- _________________________________________ 
-/ Because we don't think about future     \
-| generations, they will never forget us. |
-|                                         |
-\ -- Henrik Tikkanen                      /
- ----------------------------------------- 
-    \
-     \
-      \     
-                    ##        .            
-              ## ## ##       ==            
-           ## ## ## ##      ===            
-       /""""""""""""""""___/ ===        
-  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
-       \______ o          __/            
-        \    \        __/             
-          \____\______/   
+```

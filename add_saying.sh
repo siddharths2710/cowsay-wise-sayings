@@ -1,10 +1,12 @@
 RANDOM=$$
+echo "\`\`\`" >> /home/appsadm/cowsay-wise-sayings/README.md
 if [ `expr $RANDOM % 2` -eq 0 ]
 then
 	docker run --name sayings ujjwal9695/cowsay-wise-sayings >> /home/appsadm/cowsay-wise-sayings/README.md
 else
 	docker run --name sayings chuanwen/cowsay >> /home/appsadm/cowsay-wise-sayings/README.md 
 fi
+echo "\`\`\`" >> /home/appsadm/cowsay-wise-sayings/README.md
 docker rm sayings
 cd /home/appsadm/cowsay-wise-sayings/
 git add .
