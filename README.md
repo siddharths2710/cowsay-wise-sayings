@@ -14,15 +14,3 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
-```
- ________________________________________
-/ It is not well to be thought of as one \
-| who meekly submits to insolence and    |
-\ intimidation.                          /
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
