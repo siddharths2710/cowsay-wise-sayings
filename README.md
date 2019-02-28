@@ -33,3 +33,25 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________ 
+/ P.S. I suppose I really should be nicer \
+| to people today, considering I'll be    |
+| singing in Billy Graham's choir         |
+| tonight... :-)                          |
+|                                         |
+| -- Larry Wall in                        |
+\ <199709261754.KAA23761@wall.org>        /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
