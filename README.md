@@ -147,3 +147,15 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________
+/ The real reason psychology is hard is   \
+| that psychologists are trying to do the |
+\ impossible.                             /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
