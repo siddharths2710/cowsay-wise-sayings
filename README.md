@@ -134,3 +134,16 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ________________________________________
+/ Denver, n.:                            \
+|                                        |
+| A smallish city located just below the |
+\ `O' in Colorado.                       /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
