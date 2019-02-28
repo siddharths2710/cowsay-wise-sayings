@@ -55,3 +55,13 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _____________________________
+< Honi soit la vache qui rit. >
+ -----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
