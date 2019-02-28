@@ -14,3 +14,22 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
+```
+ _________________________________________ 
+/ "I have not the slightest confidence in \
+| 'spiritual manifestations.'"            |
+|                                         |
+\ -- Robert G. Ingersoll                  /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
