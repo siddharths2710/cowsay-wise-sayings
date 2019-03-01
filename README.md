@@ -14,15 +14,3 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
-```
- _______________________________________
-/ Marvelous! The super-user's going to  \
-| boot me! What a finely tuned response |
-\ to the situation!                     /
- ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
