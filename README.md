@@ -14,3 +14,39 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
+```
+ _________________________________________
+/ A couple of young fellers were fishing  \
+| at their special pond off the beaten    |
+| track when out of the bushes jumped the |
+| Game Warden. Immediately, one of the    |
+| boys threw his rod down and started     |
+| running through the woods like the      |
+| proverbial bat out of hell, and hot on  |
+| his heels ran the Game Warden. After    |
+| about a half mile the fella stopped and |
+| stooped over with his hands on his      |
+| thighs, whooping and heaving to catch   |
+| his breath as the Game Warden finally   |
+| caught up to him.                       |
+|                                         |
+| "Let's see yer fishin' license, boy,"   |
+| the Warden gasped. The man pulled out   |
+| his wallet and gave the Game Warden a   |
+| valid fishing license.                  |
+|                                         |
+| "Well, son", snarled the Game Warden,   |
+| "You must be about as dumb as a box of  |
+| rocks! You didn't have to run if you    |
+| have a license!"                        |
+|                                         |
+| "Yes, sir," replied his victim, "but,   |
+| well, see, my friend back there, he     |
+\ don't have one!"                        /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
