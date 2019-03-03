@@ -70,3 +70,27 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ________________________________________
+/ When I drink, *everybody* drinks!" a   \
+| man shouted to the assembled bar       |
+| patrons. A loud general cheer went up. |
+| After downing his whiskey, he hopped   |
+| onto a barstool and shouted "When I    |
+| take another drink, *everybody* takes  |
+| another drink!" The announcement       |
+| produced another cheer and another     |
+| round of drinks.                       |
+|                                        |
+| As soon as he had downed his second    |
+| drink, the fellow hopped back onto the |
+| stool. "And when I pay," he bellowed,  |
+| slapping five dollars onto the bar,    |
+\ "*everybody* pays!"                    /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
