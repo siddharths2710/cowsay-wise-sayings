@@ -94,3 +94,25 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________ 
+/ "Otherwise, please speak to a doctor    \
+| about removing your head from your ass, |
+| I believe it would be beneficial to all |
+| involved."                              |
+|                                         |
+| -- Zephaniah E. Hull, flaming someone   |
+\ on a mailing list                       /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
