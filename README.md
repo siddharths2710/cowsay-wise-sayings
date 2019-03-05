@@ -116,3 +116,16 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ________________________________________
+/ QOTD:                                  \
+|                                        |
+| "Oh, no, no... I'm not beautiful. Just |
+\ very, very pretty."                    /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
