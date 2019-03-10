@@ -192,3 +192,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _______________________________________
+/ Drunks are rarely amusing unless they \
+| know some good songs and lose a lot a |
+| poker.                                |
+|                                       |
+\ -- Karyl Roosevelt                    /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
