@@ -267,3 +267,15 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________
+/ I would rather say that a desire to     \
+| drive fast sports cars is what sets man |
+\ apart from the animals.                 /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
