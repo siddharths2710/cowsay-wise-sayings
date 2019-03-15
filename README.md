@@ -279,3 +279,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ________________________________________
+/ Those who do things in a noble spirit  \
+| of self-sacrifice are to be avoided at |
+| all costs.                             |
+|                                        |
+\ -- N. Alexander.                       /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
