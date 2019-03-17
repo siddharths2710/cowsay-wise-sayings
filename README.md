@@ -304,3 +304,16 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ______________________________________
+/ Any philosophy that can be put "in a \
+| nutshell" belongs there.             |
+|                                      |
+\ -- Sydney J. Harris                  /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
