@@ -317,3 +317,15 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ____________________________________
+/ What one fool can do, another can. \
+|                                    |
+\ -- Ancient Simian Proverb          /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
