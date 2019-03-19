@@ -329,3 +329,24 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ________________________________________ 
+/ Those who educate children well are    \
+| more to be honored than parents, for   |
+| these only gave life, those the art of |
+| living well.                           |
+|                                        |
+\ -- Aristotle                           /
+ ---------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
