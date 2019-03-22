@@ -384,3 +384,15 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _____________________________________
+/ "I'd love to go out with you, but I \
+| want to spend more time with my     |
+\ blender."                           /
+ -------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
