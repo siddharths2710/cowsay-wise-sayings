@@ -396,3 +396,15 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ______________________________________
+/ It's hard to think of you as the end \
+| result of millions of years of       |
+\ evolution.                           /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
