@@ -418,3 +418,16 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________
+/ I want you to organize my PASTRY trays  \
+| ... my TEA-TINS are gleaming in         |
+| formation like a ROW of DRUM MAJORETTES |
+\ -- please don't be FURIOUS with me --   /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
