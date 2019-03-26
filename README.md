@@ -431,3 +431,23 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________ 
+/ There are three possibilities:          \
+| Pioneer's solar panel has turned away   |
+| from the sun; there's a large meteor    |
+| blocking transmission; someone loaded   |
+\ Star Trek 3.2 into our video processor. /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
