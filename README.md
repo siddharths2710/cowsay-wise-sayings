@@ -451,3 +451,18 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________
+/ In a museum in Havana, there are two    \
+| skulls of Christopher Columbus, "one    |
+| when he was a boy and one when he was a |
+| man."                                   |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
