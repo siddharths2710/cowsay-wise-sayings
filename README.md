@@ -14,3 +14,22 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
+```
+ _________________________________ 
+/ It's not Camelot, but it's not  \
+| Cleveland, either.              |
+|                                 |
+\ -- Kevin White, Mayor of Boston /
+ --------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
