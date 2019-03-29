@@ -33,3 +33,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ______________________________________
+/ Sometimes a feeling is all we humans \
+| have to go on.                       |
+|                                      |
+| -- Kirk, "A Taste of Armageddon",    |
+\ stardate 3193.9                      /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
