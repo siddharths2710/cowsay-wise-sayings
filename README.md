@@ -47,3 +47,20 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ________________________________________ 
+/ Absence makes the heart grow fonder -- \
+\ of somebody else.                      /
+ ---------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
