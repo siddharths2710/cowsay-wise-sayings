@@ -83,3 +83,24 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________ 
+/ Hanlon's Razor:                         \
+|                                         |
+| Never attribute to malice that which is |
+| adequately explained                    |
+|                                         |
+\ by stupidity.                           /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
