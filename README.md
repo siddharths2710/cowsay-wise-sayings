@@ -104,3 +104,35 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ________________________________________ 
+/ The history of warfare is similarly    \
+| subdivided, although here the phases   |
+| are Retribution, Anticipation, and     |
+| Diplomacy. Thus:                       |
+|                                        |
+| Retribution:                           |
+|                                        |
+| I'm going to kill you because you      |
+| killed my brother. Anticipation:       |
+|                                        |
+| I'm going to kill you because I killed |
+| your brother. Diplomacy:               |
+|                                        |
+| I'm going to kill my brother and then  |
+| kill you on the                        |
+|                                        |
+\ pretext that your brother did it.      /
+ ---------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
