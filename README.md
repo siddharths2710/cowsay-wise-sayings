@@ -184,3 +184,47 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________ 
+/ I always will remember -- I was in no   \
+| mood to trifle; 'Twas a year ago        |
+| November -- I got down my trusty rifle  |
+| I went out to shoot some deer And went  |
+| out to stalk my prey -- On a morning    |
+| bright and clear. What a haul I made    |
+| that day! I went and shot the maximum I |
+| tied them to my bumper and The game     |
+| laws would allow: I drove them home     |
+| somehow, Two game wardens, seven        |
+| hunters, Two game wardens, seven        |
+| hunters, And a cow. And a cow.          |
+|                                         |
+| The Law was very firm, it People ask me |
+| how I do it Took away my permit-- And I |
+| say, "There's nothin' to it! The worst  |
+| punishment I ever endured. You just     |
+| stand there lookin' cute, It turns out  |
+| there was a reason: And when something  |
+| moves, you shoot." Cows were out of     |
+| season, and And there's ten stuffed     |
+| heads One of the hunters wasn't         |
+| insured. In my trophy room right now:   |
+|                                         |
+| Two game wardens, seven hunters,        |
+|                                         |
+| And a pure-bred guernsey cow.           |
+|                                         |
+\ -- Tom Lehrer, "The Hunting Song"       /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
