@@ -239,3 +239,18 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _______________________________________
+/ I object to intellect without         \
+| discipline; I object to power without |
+| constructive purpose.                 |
+|                                       |
+| -- Spock, "The Squire of Gothos",     |
+\ stardate 2124.5                       /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
