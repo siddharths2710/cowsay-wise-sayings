@@ -282,3 +282,20 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________
+/ That could certainly be done, but I     \
+| don't want to fall into the Forth trap, |
+| where every running Forth               |
+| implementation is really a different    |
+| language.                               |
+|                                         |
+| -- Larry Wall in                        |
+\ <199705101952.MAA00756@wall.org>        /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
