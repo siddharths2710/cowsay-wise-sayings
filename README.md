@@ -316,3 +316,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ________________________________________
+/ HOW YOU CAN TELL THAT IT'S GOING TO BE \
+| A ROTTEN DAY:                          |
+|                                        |
+| #1040 Your income tax refund cheque    |
+\ bounces.                               /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
