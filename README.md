@@ -330,3 +330,25 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________ 
+/ NATHAN ... your PARENTS were in a       \
+| CARCRASH!! They're VOIDED -- They       |
+| COLLAPSED They had no CHAINSAWS ...     |
+| They had no MONEY MACHINES ... They did |
+| PILLS in SKIMPY GRASS SKIRTS ...        |
+| Nathan, I EMULATED them ... but they    |
+\ were OFF-KEY ...                        /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
