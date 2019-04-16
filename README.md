@@ -393,3 +393,20 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ________________________________________
+/ If you bring forth what is within you, \
+| what you bring forth will save you. If |
+| you do not bring forth what is within  |
+| you, what you do not bring forth will  |
+| destroy you.                           |
+|                                        |
+| -- Jesus, "Gnostic Gospels" (Elaine    |
+\ Pagel)                                 /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
