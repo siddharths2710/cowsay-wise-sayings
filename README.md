@@ -410,3 +410,38 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________ 
+/ FORTUNE DISCUSSES THE OBSCURE FILMS: #5 \
+|                                         |
+| THE ATOMIC GRANDMOTHER:                 |
+|                                         |
+| This humorous but heart-warming story   |
+| tells of an elderly woman               |
+|                                         |
+| forced to work at a nuclear power plant |
+| in order to help the family             |
+|                                         |
+| make ends meet. At night, granny sits   |
+| on the porch, tells tales               |
+|                                         |
+| of her colorful past, and the family    |
+| uses her to cook barbecues              |
+|                                         |
+| and to power small electrical           |
+| appliances. Maureen Stapleton gives     |
+|                                         |
+\ a glowing performance.                  /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
