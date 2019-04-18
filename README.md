@@ -445,3 +445,18 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ______________________________________
+/ economist, n:                        \
+|                                      |
+| Someone who's good with figures, but |
+| doesn't have enough                  |
+|                                      |
+\ personality to become an accountant. /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
