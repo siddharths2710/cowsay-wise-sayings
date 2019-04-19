@@ -460,3 +460,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ______________________________________
+/ No, I don't have a drinking problem. \
+|                                      |
+| I drink, I get drunk, I fall down.   |
+|                                      |
+\ No problem!                          /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
