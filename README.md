@@ -474,3 +474,15 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
