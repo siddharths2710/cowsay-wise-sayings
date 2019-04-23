@@ -522,3 +522,26 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ________________________________________
+/  Excellence is THE trend of the '80s.  \
+| Walk into any shopping mall bookstore, |
+| go to the rack where they keep the     |
+| best-sellers such as "Garfield Gets    |
+| Spayed", and you'll see a half-dozen   |
+| books telling you how to be excellent: |
+| "In Search of Excellence", "Finding    |
+| Excellence", "Grasping Hold of         |
+| Excellence", "Where to Hide Your       |
+| Excellence at Night So the Cleaning    |
+| Personnel Don't Steal It", etc.        |
+|                                        |
+| -- Dave Barry, "In Search of           |
+\ Excellence"                            /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
