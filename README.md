@@ -561,3 +561,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________
+/  "How would I know if I believe in love \
+| at first sight?" the sexy social        |
+| climber said to her roommate. "I mean,  |
+| I've never seen a Porsche full of money |
+\ before."                                /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
