@@ -575,3 +575,16 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________
+/ Mausoleum: The final and funniest folly \
+| of the rich.                            |
+|                                         |
+\ -- Ambrose Bierce                       /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
