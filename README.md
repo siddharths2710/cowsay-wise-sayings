@@ -14,3 +14,20 @@ This repo is maintains sayings that are constantly spoken by the wise `cow-cronn
 Check out the indefinite number of sayings as mentioned by the *cow-cronner* and the *whale-cronner* below :-
 
 ---
+```
+ _______________________________________ 
+/ You can always tell luck from ability \
+\ by its duration.                      /
+ --------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
