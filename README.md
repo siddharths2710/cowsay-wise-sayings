@@ -42,3 +42,33 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ _________________________________________ 
+/ As the system comes up, the component   \
+| builders will from time to time appear, |
+| bearing hot new versions of their       |
+| pieces -- faster, smaller, more         |
+| complete, or putatively less buggy. The |
+| replacement of a working component by a |
+| new version requires the same           |
+| systematic testing procedure that       |
+| adding a new component does, although   |
+| it should require less time, for more   |
+| complete and efficient test cases will  |
+| usually be available.                   |
+|                                         |
+| -- Frederick Brooks Jr., "The Mythical  |
+\ Man Month"                              /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
