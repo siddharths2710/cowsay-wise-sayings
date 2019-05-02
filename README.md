@@ -89,3 +89,26 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ ________________________________________ 
+/ "Ain't that something what happened    \
+| today. One of us got traded to Kansas  |
+| City."                                 |
+|                                        |
+| -- Casey Stengel, informing outfielder |
+| Bob Cerv he'd                          |
+|                                        |
+\ been traded.                           /
+ ---------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+```
