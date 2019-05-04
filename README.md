@@ -130,3 +130,16 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ____________________________________
+/ Why won't you let me kiss you      \
+| goodnight? Is it something I said? |
+|                                    |
+\ -- Tom Ryan                        /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
