@@ -179,3 +179,17 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         \    \        __/             
           \____\______/   
 ```
+```
+ _________________________________________
+/ A Vulcan can no sooner be disloyal than \
+| he can exist without breathing.         |
+|                                         |
+| -- Kirk, "The Menagerie", stardate      |
+\ 3012.4                                  /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
