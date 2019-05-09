@@ -204,3 +204,23 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                 ||----w |
                 ||     ||
 ```
+```
+ ________________________________________
+/ (1) Alexander the Great was a great    \
+| general. (2) Great generals are        |
+| forewarned. (3) Forewarned is          |
+| forearmed. (4) Four is an even number. |
+| (5) Four is certainly an odd number of |
+| arms for a man to have. (6) The only   |
+| number that is both even and odd is    |
+| infinity.                              |
+|                                        |
+| Therefore, Alexander the Great had an  |
+\ infinite number of arms.               /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
