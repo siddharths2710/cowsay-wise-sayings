@@ -329,3 +329,23 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
  |      |I
   \____/ I
 ```
+```
+ _______________________________________
+/ Don't plan any hasty moves. You'll be \
+\ evicted soon anyway.                  /
+ ---------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
+```
