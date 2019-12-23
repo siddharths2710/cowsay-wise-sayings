@@ -349,3 +349,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
        __ || __||
       (____(____)
 ```
+```
+ ______________________________________
+/ You will remember something that you \
+\ should not have forgotten.           /
+ --------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
