@@ -312,3 +312,20 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
 ```
 ```
 ```
+```
+ _________________________________________
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
+ -----------------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
+```
