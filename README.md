@@ -297,22 +297,6 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
       (____(____)
 ```
 ```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
  _________________________________________
 / Q: What's yellow, and equivalent to the \
 \ Axiom of Choice? A: Zorn's Lemon.       /
@@ -364,4 +348,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
     /'\_   _/`\
     \___)=(___/
 
+```
+```
+ ______________________________________
+< You will have long and healthy life. >
+ --------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
