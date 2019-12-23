@@ -28,7 +28,6 @@ case $REM in
 ;;
 esac
 echo "\`\`\`" >> /root/Documents/cowsay/cowsay-wise-sayings/README.md
-docker rm sayings
 cd /root/Documents/cowsay/cowsay-wise-sayings/
 git add .
 git commit -m "added new saying $RANDOM"

@@ -266,3 +266,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                   (_(__/  ./     /                    \_\      \.
                          (_(___/                         \_____)_)
 ```
+```
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
+```
