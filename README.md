@@ -241,12 +241,6 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
 
 ```
 ```
-```
-```
-```
-```
-```
-```
  ____________________________
 < Save energy: be apathetic. >
  ----------------------------
@@ -281,4 +275,24 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         |   o   |  
         | |   | |  
         |m|   |m|  
+```
+```
+ _________________________________________
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
+ -----------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
 ```
