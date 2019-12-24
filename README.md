@@ -364,3 +364,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
         | |   | |  
         |m|   |m|  
 ```
+```
+ ____________________________________
+/ You are confused; but this is your \
+\ normal state.                      /
+ ------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
