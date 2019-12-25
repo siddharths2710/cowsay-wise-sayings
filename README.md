@@ -380,3 +380,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
     \___)=(___/
 
 ```
+```
+ _______________________________________
+/ You will feel hungry again in another \
+\ hour.                                 /
+ ---------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
