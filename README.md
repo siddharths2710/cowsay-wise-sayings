@@ -467,3 +467,21 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
                                                                   /.-~
 ```
+```
+ ________________________________
+/ She is not refined. She is not \
+| unrefined. She keeps a parrot. |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
