@@ -485,3 +485,18 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
     \___)=(___/
 
 ```
+```
+ _____________________________
+< You will never know hunger. >
+ -----------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
