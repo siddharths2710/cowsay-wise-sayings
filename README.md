@@ -521,3 +521,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
                   (_(__/  ./     /                    \_\      \.
                          (_(___/                         \_____)_)
 ```
+```
+ __________________________
+< Advancement in position. >
+ --------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
+```
