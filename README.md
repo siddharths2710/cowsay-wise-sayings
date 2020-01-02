@@ -537,3 +537,19 @@ Check out the indefinite number of sayings as mentioned by the *cow-cronner* and
  |      |I
   \____/ I
 ```
+```
+ ________________________________
+/ It was all so different before \
+\ everything changed.            /
+ --------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
