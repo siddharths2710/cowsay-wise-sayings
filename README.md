@@ -487,3 +487,25 @@ ________________________________________
  |      |I
   \____/ I
 ```
+```
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
+```
