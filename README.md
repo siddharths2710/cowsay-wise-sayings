@@ -2081,3 +2081,28 @@ ________________________________________
         | |   | |  
         |m|   |m|  
 ```
+```
+ _________________________________________
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
+```
