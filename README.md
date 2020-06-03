@@ -2578,3 +2578,23 @@ ________________________________________
         | |   | |  
         |m|   |m|  
 ```
+```
+ _________________________________________
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
+|                                         |
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
+ -----------------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
+```
