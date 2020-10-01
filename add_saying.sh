@@ -1,34 +1,35 @@
 RANDOM=$$
-echo "\`\`\`" >> /root/Documents/cowsay-wise-sayings/README.md
+git pull origin master
+echo "\`\`\`" >> ~/workspace/cowsay-wise-sayings/README.md
 REM=`expr $RANDOM % 7`
 case $REM in
 0)
-	fortune | cowsay -f snowman >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f snowman >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 1)
-	fortune | cowsay -f tux >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f tux >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 2)
-	fortune | cowsay -f turtle >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f turtle >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 3)
-	fortune | cowsay -f stimpy >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f stimpy >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 4)
-	fortune | cowsay -f dragon >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f dragon >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 5)
-	fortune | cowsay -f elephant >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f elephant >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 6)
-	fortune | cowsay -f calvin >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay -f calvin >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 *)
-	fortune | cowsay >> /root/Documents/cowsay-wise-sayings/README.md
+	fortune | cowsay >> ~/workspace/cowsay-wise-sayings/README.md
 ;;
 esac
-echo "\`\`\`" >> /root/Documents/cowsay-wise-sayings/README.md
-cd /root/Documents/cowsay-wise-sayings/
+echo "\`\`\`" >> ~/workspace/cowsay-wise-sayings/README.md
+cd ~/workspace/cowsay-wise-sayings/
 git add .
 git commit -m "added new saying $RANDOM"
 git push origin master
