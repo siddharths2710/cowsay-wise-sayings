@@ -1,4 +1,5 @@
 RANDOM=$$
+cd ~/workspace/cowsay-wise-sayings/
 git pull origin master
 echo "\`\`\`" >> ~/workspace/cowsay-wise-sayings/README.md
 REM=`expr $RANDOM % 7`
@@ -29,7 +30,6 @@ case $REM in
 ;;
 esac
 echo "\`\`\`" >> ~/workspace/cowsay-wise-sayings/README.md
-cd ~/workspace/cowsay-wise-sayings/
 git add .
 git commit -m "added new saying $RANDOM"
 git push origin master
