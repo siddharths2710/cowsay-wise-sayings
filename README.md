@@ -52,3 +52,19 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
         | |   | |  
         |m|   |m|  
 ```
+```
+ _________________________________
+/ Domestic happiness and faithful \
+\ friends.                        /
+ ---------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
+```
