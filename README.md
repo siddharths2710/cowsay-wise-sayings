@@ -69,3 +69,20 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
         |m|   |m|  
 ```
 
+```
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
+```
