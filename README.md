@@ -249,3 +249,27 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
           `JNa..........A....af`
                `^^^^^'`
 ```
+```
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
+```
