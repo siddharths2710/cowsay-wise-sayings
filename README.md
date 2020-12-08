@@ -318,3 +318,20 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
                                                                   /.-~
 ```
+```
+ _____________________
+/ Big book, big bore. \
+|                     |
+\ -- Callimachus      /
+ ---------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
