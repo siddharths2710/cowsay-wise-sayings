@@ -394,3 +394,26 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
                   (_(__/  ./     /                    \_\      \.
                          (_(___/                         \_____)_)
 ```
+```
+ _________________________________________
+/ If more of us valued food and cheer and \
+| song above hoarded gold, it would be a  |
+| merrier world.                          |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
+```
