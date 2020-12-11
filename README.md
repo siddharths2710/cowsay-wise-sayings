@@ -441,3 +441,19 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
        __ || __||
       (____(____)
 ```
+```
+ ______________________________________
+/ Artistic ventures highlighted. Rob a \
+\ museum.                              /
+ --------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
