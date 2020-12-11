@@ -417,3 +417,27 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
        __ || __||
       (____(____)
 ```
+```
+ _________________________________________
+/ Q: Know what the difference between     \
+| your latest project                     |
+|                                         |
+| and putting wings on an elephant is? A: |
+| Who knows? The elephant *might* fly,    |
+\ heh, heh...                             /
+ -----------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
+```
