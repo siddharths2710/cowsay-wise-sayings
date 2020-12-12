@@ -457,3 +457,19 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
     \___)=(___/
 
 ```
+```
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
+```
