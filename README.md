@@ -473,3 +473,21 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
  |      |I
   \____/ I
 ```
+```
+ _________________________________________
+/ I do desire we may be better strangers. \
+|                                         |
+| -- William Shakespeare, "As You Like    |
+\ It"                                     /
+ -----------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
+```
