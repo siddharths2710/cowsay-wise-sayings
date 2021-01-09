@@ -512,3 +512,19 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
                   (_(__/  ./     /                    \_\      \.
                          (_(___/                         \_____)_)
 ```
+```
+ ______________________________________
+/ Never be led astray onto the path of \
+\ virtue.                              /
+ --------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
