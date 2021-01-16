@@ -588,3 +588,19 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
                                                                   /.-~
 ```
+```
+ ______________________________________
+/ You need more time; and you probably \
+\ always will.                         /
+ --------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
+```
