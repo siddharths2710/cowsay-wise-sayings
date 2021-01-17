@@ -604,3 +604,26 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
         | |   | |  
         |m|   |m|  
 ```
+```
+ ________________________________________
+/ ... A solemn, unsmiling, sanctimonious \
+| old iceberg who looked like he was     |
+| waiting for a vacancy in the Trinity.  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
+  \     .    _  .    
+   \    |\_|/__/|    
+       / / \/ \  \  
+      /__|O||O|__ \ 
+     |/_ \_/\_/ _\ |  
+     | | (____) | ||  
+     \/\___/\__/  // 
+     (_/         ||
+      |          ||
+      |          ||\   
+       \        //_/  
+        \______//
+       __ || __||
+      (____(____)
+```
