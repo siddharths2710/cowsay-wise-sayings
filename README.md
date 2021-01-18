@@ -627,3 +627,21 @@ With that in mind , check out the indefinite number of sayings as mentioned by t
        __ || __||
       (____(____)
 ```
+```
+ ________________________________________
+/ Water, taken in moderation cannot hurt \
+| anybody.                               |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
